@@ -11,7 +11,7 @@ It is designed to handle core business logic for a team collaboration SaaS platf
 
 - 🔐 **Authentication** (Google Sign-In, Email, Password)  
 - 🏢 **Create & Manage Multiple Workspaces**  
-- 📊 **Projects & Epics Management**  
+- 📊 **Projects Management**  
 - ✅ **Tasks** (CRUD, Status, Priority, Assignee)  
 - 👥 **Roles & Permissions** (Owner, Admin, Member)  
 - ✉️ **Invite Members to Workspaces**  
@@ -21,8 +21,7 @@ It is designed to handle core business logic for a team collaboration SaaS platf
 - 🔒 **Cookie Session Management**  
 - 🚪 **Logout & Session Termination**  
 - 🌱 **Seeding** for Test Data  
-- 💾 **Mongoose Transactions** for Robust Data Integrity  
-- 🌐 **Built with MERN Stack** (Node.js, MongoDB, React, TypeScript)  
+- 💾 **Mongoose Transactions** for Robust Data Integrity   
 
 ---
 
